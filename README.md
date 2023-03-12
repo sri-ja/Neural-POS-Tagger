@@ -1,4 +1,4 @@
-# Assignment 2
+# Neural POS Tagger
 
 Running the pos tagger is extremely simple for this case
 All one would need to do is run the following command 
